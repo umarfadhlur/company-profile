@@ -14,6 +14,6 @@
     @include('sections.clients')
     {{-- @include('sections.testimonials') --}}
     @include('sections.portfolio')
-    {{-- @include('sections.team') --}}
+    @include('sections.team')
     @include('sections.contact')
 @endsection
