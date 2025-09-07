@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('title', 'PT GLS NUSARAYA - Pipeline | Steel Structure | Mechanical Engineering')
-@section('description', 'Welcome to BizLand - We are team of talented designers making websites with Bootstrap')
+@section('description', 'Reliable solutions for pipelines, steel structures, and mechanical works across Indonesia.')
 
 @section('content')
     @include('sections.hero')

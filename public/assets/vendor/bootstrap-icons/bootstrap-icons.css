@@ -896,8 +896,6 @@ url("./fonts/bootstrap-icons.woff?dd67030699838ea613ee6dbda90effa6") format("wof
 .bi-layout-text-window::before { content: "\f464"; }
 .bi-layout-three-columns::before { content: "\f465"; }
 .bi-layout-wtf::before { content: "\f466"; }
-.bi-leaf::before { content: "\f90c"; }
-.bi-leaf-fill::before { content: "\f90b"; }
 .bi-life-preserver::before { content: "\f467"; }
 .bi-lightbulb-fill::before { content: "\f468"; }
 .bi-lightbulb-off-fill::before { content: "\f469"; }
